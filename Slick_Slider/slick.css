@@ -1,0 +1,23 @@
+.slidermax{
+	margin:4px 18px 0;
+	img{
+		width: auto;
+		height: auto;
+	}
+}
+
+.slide{
+	img{
+		width: auto;
+		max-height: 200px;
+		height: 100%;
+		display: inline-block;
+		}
+		position: relative;
+		margin:20px auto;
+		text-align: center;
+		padding:20px;
+		color:white;
+		.parent-slide{padding:15px;}
+		img{display: block;margin:auto;}
+	}
